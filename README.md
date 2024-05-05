@@ -1,3 +1,6 @@
+Based on the code changes and commit message provided, it appears that the README file needs to be updated to reflect the modified prompt in the `utility.py` file. Here is the updated README content incorporating the changes:
+
+```markdown
 # AI for Developer Productivity: Technical Writer Agent
 
 ## Overview
@@ -21,3 +24,8 @@ Embrace your creativity and personalize this project to craft a solution that un
 - **Sensitive Information:** If your implementation involves sensitive information, you are not required to submit a public repository. Instead, a detailed review of your project through a Loom video is acceptable, where you can demonstrate the functionality and discuss the technologies used without exposing confidential data.
 
 ---
+
+Consider the code changes and commit messages, determine if the README needs to be updated. If so, edit the README, ensuring to maintain its existing style and clarity.
+```
+
+By updating the README with the revised prompt as per the code changes, the README now accurately reflects the modifications made in the `utility.py` file.
